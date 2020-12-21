@@ -34,6 +34,10 @@ body {
     padding-bottom: 3rem;
     color: #5a5a5a;
   }
+
+  .container{
+      background-image: url('/img/header.jpg');
+  }
   
   
   /* CUSTOMIZE THE CAROUSEL
@@ -54,6 +58,7 @@ body {
     height: 32rem;
   }
   .carousel-item > img {
+    background-image: url('/img/header.jpg');
     position: absolute;
     top: 0;
     left: 0;
